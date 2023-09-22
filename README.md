@@ -8,7 +8,7 @@ The physics datasets used for these tutorials were slightly too big to put here,
 executing
 
 ```sh
-# get into directory and executre
+# get into directory and execute
 cd datasets
 python get_data.py
 ```
