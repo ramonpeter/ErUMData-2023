@@ -2,8 +2,11 @@
 
 Tutorials and lectures for advanced deep Learning methods hosted by the ErUM-Data-Hub [https://indico.desy.de/event/37478/]
 
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ramonpeter/ErUMData-2023)
+
 Tutor: Theo Heimel
 
+## Dataset (if using Colab, ignore this section)
 The physics datasets used for these tutorials were slightly too big to put here, but they can be downloaded by
 executing
 
