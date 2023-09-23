@@ -1,6 +1,6 @@
 # ErUMData - Active Training Course 2023
 
-Tutorials and lectures for advanced deep Learning methods hosted by the ErUM-Data-Hub [https://indico.desy.de/event/37478/]
+Tutorials and lectures for advanced deep Learning methods hosted by the ErUM-Data-Hub ([Link to indico](https://indico.desy.de/event/37478/))
 
 [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ramonpeter/ErUMData-2023)
 
